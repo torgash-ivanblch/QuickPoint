@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pro.extenza.quickpoint.OfflineListActivity"
+    android:padding="5dp">
+    <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/bar"
+        android:layout_width="match_parent"
+
+        android:layout_height="?android:actionBarSize"
+        android:background="@color/darkblue"/>
+    <!--app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"-->
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/bar" />
+</RelativeLayout>

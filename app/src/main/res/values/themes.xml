@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="Theme.MyTheme" parent="AppTheme">-->
+        <!--&lt;!&ndash; colorPrimary is used for the default action bar background &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/bluer</item>-->
+
+        <!--&lt;!&ndash; colorPrimaryDark is used for the status bar &ndash;&gt;-->
+        <!--<item name="colorPrimaryDark">@color/blue</item>-->
+
+        <!--&lt;!&ndash; colorAccent is used as the default value for colorControlActivated,-->
+             <!--which is used to tint widgets &ndash;&gt;-->
+        <!--<item name="colorAccent">@color/color2</item>-->
+
+        <!--&lt;!&ndash; You can also set colorControlNormal, colorControlActivated-->
+             <!--colorControlHighlight, and colorSwitchThumbNormal. &ndash;&gt;-->
+
+    <!--</style>-->
+</resources>
